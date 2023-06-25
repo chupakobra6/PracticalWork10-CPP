@@ -1,0 +1,5 @@
+﻿  PracticalWork10.cpp
+C:\C++\PracticalWork10\PracticalWork10\PracticalWork10.cpp(18,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\PracticalWork10\PracticalWork10\PracticalWork10.cpp(32,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\PracticalWork10\PracticalWork10\PracticalWork10.cpp(33,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  PracticalWork10.vcxproj -> C:\C++\PracticalWork10\x64\Debug\PracticalWork10.exe
